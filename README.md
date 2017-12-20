@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ssh
 
 #### Table of Contents
@@ -81,3 +82,6 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+=======
+# studious-adventure
+>>>>>>> 65d2e1d30d29ef0e6459e86a98660455a72945b1
